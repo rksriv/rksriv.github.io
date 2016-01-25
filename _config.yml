@@ -1,0 +1,34 @@
+name: Freefall
+description: "Hello! I'm Rajesh Kumar Srivastav. MakeAChange is my personal website to spread the word that change is good."
+keywords: "blog, web, programming, python, Rajesh Kumar Srivastav, Rajesh, Kumar, Srivastav, rks, rksriv"
+author: "Rajesh Kumar Srivatav"
+markdown: redcarpet
+pygments: true
+url: http://makeachange.co.in
+permalink: pretty
+paginate: 10
+paginate_path: "/:num/"
+
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "post"
+  -
+    scope:
+      path: "projects"
+    values:
+      layout: "page"
+
+
+# Owner Info
+owner:
+  name:     Rajesh Kumar Srivatav
+  email:    rks_201159@yahoo.co.in
+  github:   rksriv
+  twitter:  srivastav_rk
+   
+# Google Analytics 
+google_analytics: UA-72846931-1
