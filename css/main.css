@@ -57,3 +57,13 @@
     height: 300px;
     padding-left: 50px;
 }
+
+@media all and (max-width: 440px) {
+    .about-p {
+        text-align: center;
+    }
+    .about-image {
+        float: none;
+        padding: 0;
+    }
+}

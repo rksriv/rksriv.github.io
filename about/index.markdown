@@ -3,7 +3,7 @@ layout: page
 title: "About"
 ---
 
-<img src="/images/rks.jpg" alt="Rajesh kumar srivastav photo" class="about-image"/>
+<p class="about-p"> <img src="/images/rks.jpg" alt="Rajesh kumar srivastav photo" class="about-image"/> </p>
 
 Rajesh Kumar Srivastav has 30+ years of experience in school education and
 admininstraion in various Public Schools. He has authored more than 150 books
