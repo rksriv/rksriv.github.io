@@ -1,14 +1,20 @@
-name: Freefall
+name: Make a change
 description: "Hello! I'm Rajesh Kumar Srivastav. MakeAChange is my personal website to spread the word that change is good."
 keywords: "blog, web, programming, python, Rajesh Kumar Srivastav, Rajesh, Kumar, Srivastav, rks, rksriv"
 author: "Rajesh Kumar Srivatav"
-markdown: redcarpet
-pygments: true
 url: http://makeachange.co.in
+
+# Outputting
 permalink: pretty
 paginate: 10
 paginate_path: "/:num/"
 
+# Plugins
+gems: [jekyll-paginate]
+
+# Conversion
+markdown: redcarpet
+highlighter: rouge
 
 defaults:
   -
