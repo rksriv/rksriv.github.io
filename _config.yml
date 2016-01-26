@@ -1,8 +1,9 @@
-name: Make a change
-description: "Hello! I'm Rajesh Kumar Srivastav. MakeAChange is my personal website to spread the word that change is good."
+title: Make A Change
+description: "You cannot weave a silk cloth from a cotton yarn"
 keywords: "blog, web, programming, python, Rajesh Kumar Srivastav, Rajesh, Kumar, Srivastav, rks, rksriv"
-author: "Rajesh Kumar Srivatav"
-url: http://makeachange.co.in
+author: "Rajesh Kumar Srivastav"
+url: 'http://makeachange.co.in'
+baseurl: '/'
 
 # Outputting
 permalink: pretty
@@ -14,27 +15,17 @@ gems: [jekyll-paginate]
 
 # Conversion
 markdown: redcarpet
-highlighter: rouge
-
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: "post"
-  -
-    scope:
-      path: "projects"
-    values:
-      layout: "page"
-
+highlighter: pygments
 
 # Owner Info
-owner:
-  name:     Rajesh Kumar Srivatav
-  email:    rks_201159@yahoo.co.in
-  github:   rksriv
-  twitter:  srivastav_rk
+author:
+  name: 'Rajesh Kumar Srivastav'
+  email: rks_201159@yahoo.co.in
+  twitter_username: srivastav_rk
+  #github_username: rksriv
+  linkedin_username: rk-srivastav-995b8516
    
 # Google Analytics 
 google_analytics: UA-72846931-1
+
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
