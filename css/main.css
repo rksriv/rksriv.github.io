@@ -22,9 +22,9 @@
 }
 
 .tags a {
-  border: 1px solid #e25440;
+  border: 1px solid #22DD99;
   border-radius: 20px;
-  color: #e25440;
+  color: #22DD99;
   display: inline-block;
   font-size: 12px;
   margin: 5px 0;
@@ -67,3 +67,11 @@
         padding: 0;
     }
 }
+
+
+/* more personalizes styles */
+.page-header {
+  border-bottom: 1px solid #dddddd;
+  margin-bottom: 30px;
+}
+
