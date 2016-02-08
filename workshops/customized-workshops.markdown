@@ -14,21 +14,43 @@ to your needs. And has been carefully categorized into three broad domains:
 * [Managing Self (Self science)](#manage-self)
 * [New modules](#new-modules)
 
-#### <a name="manage-effective-teaching">Managing Effective Teaching</a>
+### Managing Effective Teaching <a name="manage-effective-teaching">#</a>
 
-1. Understanding CCE and its effective implementation
-2. CBSE policies for benefit of children
-3. Effective Classroom Discipline & Management
-4. Ethics & Etiquettes
-5. Empowerment of teachers for understanding students and teaching -- learning methods
-6. Circle Time
-7. Class seating plan
-8. Six Quality tips (For policy makers)
-9. Enhancing class teaching competence
+1. Understanding CCE and its effective implementation *(5 hrs)*
+2. CBSE policies for benefit of children *(45 mins)*
+3. Effective Classroom Discipline & Management *(4 hrs)*
+4. Ethics & Etiquettes *(2 hrs)*
+5. Empowerment of teachers for understanding students and teaching -- learning methods *(4 hrs)*
+6. Circle Time *(3 hrs)*
+7. Class seating plan *(30 mins)*
+8. Six Quality tips - For policy makers *(3 hrs)*
+9. Enhancing class teaching competence *(30 mins)*
+
+### Managing Self (self science) <a name="manage-self">#</a>
+
+For understanding children and timely Supportive Interventions for Problems in
+children. This domain has been divided into the following modules:
+
+1. Supportive Interventions for Problems in Children with learning and
+   behavioural Problems *(3 hrs)*
+2. Attention difficulties in classroom - for primary classes *(3 hrs)*
+3. Addressing the challenges of children in contemporary society - for speceial
+   needs children *(1.5 hrs)*
+4. Understanding behavioural difficulties in children *(2 hrs)*
+5. Learning problems in children - for primary classes *(5 hrs)*
+6. Supporting all kinds of minds within the class *(5 hrs)*
+7. Personality types *(1.5 hrs)*
+8. Mentoring the misunderstood *(4 hrs)*
+9. Freedom writers - A movie in English  *(1 hr)*
 
 
+### New Modules <a name="new-modules">#</a>
+
+1. Teaching students to work harder and enjoy it
+2. Effective classroom turn around
+3. Changing attitudes and behavior
+4. Developing leadership qualities in school
+
+For more information send me an <a href="mailto:rks_201159@yahoo.co.in">email</a>
 
 Go back to [Workshops](/workshops), or see [Documents](/documents) and [Services](/services)
-
-
-

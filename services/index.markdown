@@ -15,5 +15,6 @@ title: "Services"
   class management (Multiple Intelligence, Emotional Intelligence), Code of
   conduct etc.
 
+To avail any of the services, feel free to send me an <a href="mailto:rks_201159@yahoo.co.in">email</a>
 
 See [Documents](/documents) and [Workshops](/workshops)
