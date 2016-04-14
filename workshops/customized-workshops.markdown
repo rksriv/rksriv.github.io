@@ -25,6 +25,8 @@ to your needs. And has been carefully categorized into three broad domains:
 7. Class seating plan *(30 mins)*
 8. Six Quality tips - For policy makers *(3 hrs)*
 9. Enhancing class teaching competence *(30 mins)*
+10. Multiple Intelligence (MI) *(4 hrs)*
+11. Life Skills *(5 hrs)*
 
 ### Managing Self (self science) <a name="manage-self">#</a>
 
