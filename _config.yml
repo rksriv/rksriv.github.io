@@ -14,7 +14,7 @@ paginate_path: "/:num/"
 gems: [jekyll-paginate]
 
 # Conversion
-highlighter: pygments
+highlighter: rouge
 
 # Owner Info
 author:
