@@ -17,4 +17,4 @@ title: "Services"
 
 To avail any of the services, feel free to send me an <a href="mailto:rks_201159@yahoo.co.in">email</a>
 
-See [Documents](/documents) and [Workshops](/workshops)
+See [Documents](/documents), [Workshops](/workshops) or [Photos](/galleries)

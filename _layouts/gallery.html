@@ -1,0 +1,35 @@
+---
+layout: default
+---
+	
+<script src="/js/lightbox-plus-jquery.js"></script>
+<link href="/css/lightbox.min.css" rel="stylesheet" />
+<style type="text/css">
+    .lb-container { padding: 0; }
+</style>
+
+<p> <a href="/galleries">&lt; All photos</a></p>
+
+
+{% for gallery in site.data.galleries %}
+  {% if gallery.id == page.galleryid %}
+    <h1>{{ gallery.description }}</h1>
+    <ol>
+    {% for image in gallery.images %}
+      <li>
+        {{ image.text }}<br>
+        <a href="{{ gallery.imagefolder }}/{{ image.name }}" data-lightbox="{{ gallery.id }}" title="{{ image.text }}">
+          <img src="{{ gallery.imagefolder }}/{{ image.thumb }}" class="photo-tile">
+        </a>
+      </li>
+    {% endfor %}
+    </ol>
+  {% endif %}
+{% endfor %}
+
+<p> See other
+<a href="/workshops">Workshops</a>, 
+<a href="/galleries">Photo galleries</a>,
+<a href="/services">Services</a> or
+<a href="/documents">Documents</a>
+</p>

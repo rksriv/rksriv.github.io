@@ -11,4 +11,4 @@ have its own SOP.
 
 All documents are 'Working Manuals' for schools.
 
-See [Workshops](/workshops) and [Services](/services)
+See [Workshops](/workshops), [Services](/services) or workshop [photos](/galleries)

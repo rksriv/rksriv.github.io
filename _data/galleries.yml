@@ -1,0 +1,218 @@
+- id: pataudi
+  year: 2016
+  description: One-day workshop conducted in Pataudi
+  imagefolder: /photos/pataudi
+  images:
+  - name: 1.jpg
+    thumb: 1.jpg
+    text: The first image
+  - name: 2.jpg
+    thumb: 2.jpg
+    text: The second image
+  - name: 3.jpg
+    thumb: 3.jpg
+    text: The third image
+  - name: 4.jpg
+    thumb: 4.jpg
+    text: The fourth image
+  - name: 5.jpg
+    thumb: 5.jpg
+    text: The fifth image
+  - name: 6.jpg
+    thumb: 6.jpg
+    text: The sixth image
+  - name: 7.jpg
+    thumb: 7.jpg
+    text: The seventh image
+
+- id: faridabad
+  year: 2016
+  description: One-day workshop in Faridabad
+  imagefolder: /photos/faridabad
+  images:
+  - name: 1.jpg
+    thumb: 1.jpg
+    text: The first image
+  - name: 2.jpg
+    thumb: 2.jpg
+    text: The second image
+  - name: 3.jpg
+    thumb: 3.jpg
+    text: The third image
+
+- id: gurgaon
+  year: 2016
+  description: One-day workshop in Gurgaon
+  imagefolder: /photos/gurgaon
+  images:
+  - name: 1.jpg
+    thumb: 1.jpg
+    text: The first image
+  - name: 2.jpg
+    thumb: 2.jpg
+    text: The second image
+
+- id: jps
+  year: 2016
+  description: Workshop in Jain Public School, Rewari
+  imagefolder: /photos/jps
+  images:
+  - name: 1.jpg
+    thumb: 1.jpg
+    text: The first image
+  - name: 2.jpg
+    thumb: 2.jpg
+    text: The second image
+  - name: 3.jpg
+    thumb: 3.jpg
+    text: The third image
+
+- id: gwalior-greenwood-2016
+  year: 2016
+  description: A one day workshop in Greenwood School, Gwalior (2016)
+  imagefolder: /photos/gwalior-greenwood-2016
+  images:
+  - name: 1.jpg
+    thumb: 1.jpg
+    text: The first image
+  - name: 2.jpg
+    thumb: 2.jpg
+    text: The second image
+  - name: 3.jpg
+    thumb: 3.jpg
+    text: The third image
+  - name: 4.jpg
+    thumb: 4.jpg
+    text: The fourth image
+
+- id: shriram-2016
+  year: 2016
+  description: One-day workshop in Shriram School
+  imagefolder: /photos/shriram-2016
+  images:
+  - name: 1.jpg
+    thumb: 1.jpg
+    text: The first image
+  - name: 2.jpg
+    thumb: 2.jpg
+    text: The second image
+  - name: 3.jpg
+    thumb: 3.jpg
+    text: The third image
+  - name: 4.jpg
+    thumb: 4.jpg
+    text: The fourth image
+  - name: 5.jpg
+    thumb: 5.jpg
+    text: The fifth image
+  - name: 6.jpg
+    thumb: 6.jpg
+    text: The sixth image
+  - name: 7.jpg
+    thumb: 7.jpg
+    text: The seventh image
+  - name: 8.jpg
+    thumb: 8.jpg
+    text: The eighth image
+  - name: 9.jpg
+    thumb: 9.jpg
+    text: The ninth image
+  - name: 10.jpg
+    thumb: 10.jpg
+    text: The tenth image
+  - name: 11.jpg
+    thumb: 11.jpg
+    text: The eleven image
+  - name: 12.jpg
+    thumb: 12.jpg
+    text: The twelth image
+
+- id: shriram-2015
+  year: 2015
+  description: One-day workshop in Shriram School
+  imagefolder: /photos/shriram-2015
+  images:
+  - name: 1.jpg
+    thumb: 1.jpg
+    text: The first image
+  - name: 2.jpg
+    thumb: 2.jpg
+    text: The second image
+  - name: 3.jpg
+    thumb: 3.jpg
+    text: The third image
+  - name: 4.jpg
+    thumb: 4.jpg
+    text: The fourth image
+
+- id: gwalior-greenwood-2015
+  year: 2015
+  description: A one day workshop in Greenwood School, Gwalior (2015)
+  imagefolder: /photos/gwalior-greenwood-2015
+  images:
+  - name: 1.jpg
+    thumb: 1.jpg
+    text: The first image
+  - name: 2.jpg
+    thumb: 2.jpg
+    text: The second image
+  - name: 3.jpg
+    thumb: 3.jpg
+    text: The third image
+  - name: 4.jpg
+    thumb: 4.jpg
+    text: The fourth image
+  - name: 5.jpg
+    thumb: 5.jpg
+    text: The fifth image
+  - name: 6.jpg
+    thumb: 6.jpg
+    text: The sixth image
+  - name: 7.jpg
+    thumb: 7.jpg
+    text: The seventh image
+  - name: 8.jpg
+    thumb: 8.jpg
+    text: The eighth image
+  - name: 9.jpg
+    thumb: 9.jpg
+    text: The ninth image
+
+- id: quality-conclave
+  year: 2015
+  description: Event in Quality Conclave, Delhi
+  imagefolder: /photos/quality-conclave-delhi
+  images:
+  - name: 1.jpg
+    thumb: 1.jpg
+    text: The first image
+
+- id: raffles-university
+  year: 2015
+  description: Workshop conducted in Raffles University
+  imagefolder: /photos/raffles-university
+  images:
+  - name: 1.jpg
+    thumb: 1.jpg
+    text: The first image
+  - name: 2.jpg
+    thumb: 2.jpg
+    text: The second image
+  - name: 3.jpg
+    thumb: 3.jpg
+    text: The third image
+  - name: 4.jpg
+    thumb: 4.jpg
+    text: The fourth image
+
+- id: sqaa
+  year: 2015
+  description: SQAA Event
+  imagefolder: /photos/sqaa
+  images:
+  - name: 1.jpeg
+    thumb: 1.jpeg
+    text: The first image
+  - name: 2.jpeg
+    thumb: 2.jpeg
+    text: The second image

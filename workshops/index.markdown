@@ -46,4 +46,4 @@ I conduct many workshops and seminars. The _current sessions_ are as follows:
 I also offer a [list of other workshops/seminars to choose from](/workshops/customized-workshops)- customized according to your needs.
 For more information send me an <a href="mailto:rks_201159@yahoo.co.in">email</a>
 
-See [Documents](/documents) and [Services](/services)
+See [Documents](/documents), [Services](/services), or workshop [photos](/galleries)
