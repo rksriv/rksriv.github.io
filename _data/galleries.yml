@@ -216,3 +216,18 @@
   - name: 2.jpeg
     thumb: 2.jpeg
     text: The second image
+
+- id: sop
+  year: 2015
+  description: SOP Manuals
+  imagefolder: /photos/sop
+  images:
+  - name: sop-primary.jpg
+    thumb: sop-primary.jpg
+    text: SOP for Primary Schools
+  - name: sop.png
+    thumb: sop.png
+    text: SOP for Management and Administration
+  - name: sop-middle.png
+    thumb: sop-middle.png
+    text: SOP for Middle Schools
