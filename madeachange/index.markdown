@@ -1,0 +1,31 @@
+---
+layout: page
+title: "Made a change"
+---
+
+Here are some of the schools where I have *made a change* in the past 2 years.
+
+1. Birla Public School, Nagada, Madhya Pradesh
+2. Sanskriti Public School, Baldev Nagar, Mathura
+3. Bhivani Public School, Bhivani, Haryana
+4. Sanskar Bharti Public School, Faridabad
+5. Shreeram School, Faridabad
+6. Modern Arya Public School, Faridabad
+7. Pali Public School, Faridabad
+8. Doon Bharti Public School, Faridabad
+9. Urmila Public School, Faridabad
+10. RPM Public School, Hathras, Uttar Pradesh
+11. Jain Public School, Rewari
+12. Greenwood Public School, Gwalior
+13. Keshav Public School, Pataudi
+14. Navyug Public School, Faridabad
+15. Bright Public School, Sonepat
+16. Gita Convent School, Faridabad
+
+SQAA Workshop
+-------------
+I have also conducted combined SQAA Workshops with over a 100 participants each in 3 cities: Chandigarh, Sonepat and Gurgaon (Radisson Hotel)  
+
+---
+See [Posts](/#posts), [Documents](/documents), [Workshops](/workshops),
+[Services](/services) or [Photos](/galleries)

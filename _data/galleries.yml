@@ -1,136 +1,110 @@
-- id: pataudi
+- id: shreeram-2016
   year: 2016
-  description: One-day workshop conducted in Pataudi
-  imagefolder: /photos/pataudi
+  description: One-day workshop on Bloom's Taxonomy in Shreeram School, Faridabad
+  imagefolder: /photos/shreeram-2016
   images:
   - name: 1.jpg
     thumb: 1.jpg
-    text: The first image
+    text: The teachers prepping up for the workshop
   - name: 2.jpg
     thumb: 2.jpg
-    text: The second image
+    text: Reading the workshop material
   - name: 3.jpg
     thumb: 3.jpg
-    text: The third image
+    text: Beginning the presenation
   - name: 4.jpg
     thumb: 4.jpg
-    text: The fourth image
+    text: Discussing the question paper design
   - name: 5.jpg
     thumb: 5.jpg
-    text: The fifth image
+    text: All teachers get personal guidance
   - name: 6.jpg
     thumb: 6.jpg
-    text: The sixth image
+    text: Discussing the application of Bloom's Taxonomy
   - name: 7.jpg
     thumb: 7.jpg
-    text: The seventh image
-
-- id: faridabad
-  year: 2016
-  description: One-day workshop in Faridabad
-  imagefolder: /photos/faridabad
-  images:
-  - name: 1.jpg
-    thumb: 1.jpg
-    text: The first image
-  - name: 2.jpg
-    thumb: 2.jpg
-    text: The second image
-  - name: 3.jpg
-    thumb: 3.jpg
-    text: The third image
-
-- id: gurgaon
-  year: 2016
-  description: One-day workshop in Gurgaon
-  imagefolder: /photos/gurgaon
-  images:
-  - name: 1.jpg
-    thumb: 1.jpg
-    text: The first image
-  - name: 2.jpg
-    thumb: 2.jpg
-    text: The second image
-
-- id: jps
-  year: 2016
-  description: Workshop in Jain Public School, Rewari
-  imagefolder: /photos/jps
-  images:
-  - name: 1.jpg
-    thumb: 1.jpg
-    text: The first image
-  - name: 2.jpg
-    thumb: 2.jpg
-    text: The second image
-  - name: 3.jpg
-    thumb: 3.jpg
-    text: The third image
+    text: Giving the task sheet
+  - name: 8.jpg
+    thumb: 8.jpg
+    text: Discussion on 21st Century skills
+  - name: 9.jpg
+    thumb: 9.jpg
+    text: Question/Answer Session
 
 - id: gwalior-greenwood-2016
   year: 2016
-  description: A one day workshop in Greenwood School, Gwalior (2016)
+  description: One day workshop on Bloom's Taxonomy in Greenwood School, Gwalior
   imagefolder: /photos/gwalior-greenwood-2016
   images:
   - name: 1.jpg
     thumb: 1.jpg
-    text: The first image
+    text: Group photograph
   - name: 2.jpg
     thumb: 2.jpg
-    text: The second image
+    text: Reading of the worskhop material
   - name: 3.jpg
     thumb: 3.jpg
-    text: The third image
+    text: Teachers engaged in task
   - name: 4.jpg
     thumb: 4.jpg
-    text: The fourth image
+    text: Teachers engaged in blueprint desiging
 
-- id: shriram-2016
+- id: pataudi
   year: 2016
-  description: One-day workshop in Shriram School
-  imagefolder: /photos/shriram-2016
+  description: One-day workshop on Bloom's Taxonomy and Curriculum planning conducted in Pataudi
+  imagefolder: /photos/pataudi
   images:
   - name: 1.jpg
     thumb: 1.jpg
-    text: The first image
+    text: Over 40 participants attended the workshop
   - name: 2.jpg
     thumb: 2.jpg
-    text: The second image
+    text: Assessing the files
   - name: 3.jpg
     thumb: 3.jpg
-    text: The third image
+    text: Discussion of various domains in Bloom's Taxonomy
   - name: 4.jpg
     thumb: 4.jpg
-    text: The fourth image
+    text: Advancing to various domains in Curriculum Planning
   - name: 5.jpg
     thumb: 5.jpg
-    text: The fifth image
+    text: A deep review on day's learning
   - name: 6.jpg
     thumb: 6.jpg
-    text: The sixth image
-  - name: 7.jpg
-    thumb: 7.jpg
-    text: The seventh image
-  - name: 8.jpg
-    thumb: 8.jpg
-    text: The eighth image
-  - name: 9.jpg
-    thumb: 9.jpg
-    text: The ninth image
-  - name: 10.jpg
-    thumb: 10.jpg
-    text: The tenth image
-  - name: 11.jpg
-    thumb: 11.jpg
-    text: The eleven image
-  - name: 12.jpg
-    thumb: 12.jpg
-    text: The twelth image
+    text: Question/Answer Session
 
-- id: shriram-2015
+- id: faridabad
+  year: 2016
+  description: CCE - A One-day workshop in Faridabad
+  imagefolder: /photos/faridabad
+  images:
+  - name: 1.jpg
+    thumb: 1.jpg
+    text: Reading the Seminar material
+  - name: 2.jpg
+    thumb: 2.jpg
+    text: Teachers engaged in formative assessment task
+  - name: 3.jpg
+    thumb: 3.jpg
+    text: The 5 hrs CCE session in progress
+
+- id: gurgaon
+  year: 2016
+  description: Workshop on Gender Sensitivity in Gurgaon
+  imagefolder: /photos/gurgaon
+  images:
+  - name: 1.jpg
+    thumb: 1.jpg
+    text: With the resource persons
+  - name: 2.jpg
+    thumb: 2.jpg
+    text: With the organizers
+
+
+- id: shreeram-2015
   year: 2015
-  description: One-day workshop in Shriram School
-  imagefolder: /photos/shriram-2015
+  description: One-day workshop in Shreeram School
+  imagefolder: /photos/shreeram-2015
   images:
   - name: 1.jpg
     thumb: 1.jpg
@@ -177,6 +151,21 @@
   - name: 9.jpg
     thumb: 9.jpg
     text: The ninth image
+
+- id: jps
+  year: 2015
+  description: Classroom Observation Scale (COS) workshop in Jain Public School, Rewari
+  imagefolder: /photos/jps
+  images:
+  - name: 1.jpg
+    thumb: 1.jpg
+    text: COS for primary teachers
+  - name: 2.jpg
+    thumb: 2.jpg
+    text: COS for secondary and senior teachers
+  - name: 3.jpg
+    thumb: 3.jpg
+    text: Detailing on COS
 
 - id: quality-conclave
   year: 2015
@@ -231,3 +220,12 @@
   - name: sop-middle.png
     thumb: sop-middle.png
     text: SOP for Middle Schools
+
+- id: school-project
+  year: 2015
+  description: A School Project
+  imagefolder: /photos/school-project
+  images:
+  - name: bulandshahar.png
+    thumb: bulandshahar.png
+    text: A complete school project in Bulandshahar

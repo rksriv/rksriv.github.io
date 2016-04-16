@@ -78,3 +78,17 @@
     height: auto;
     width: 100%;
 }
+.navigation-wrapper-mobile {
+  display: none;
+}
+@media all and (max-width: 960px) {
+  .navigation-wrapper-mobile {
+    display: none;
+    margin: 40px auto; }
+    .navigation-wrapper-mobile a {
+      color: #5d5d5d;
+    }
+    .navigation-wrapper-mobile a:hover {
+        color: #22dd99;
+    }
+}

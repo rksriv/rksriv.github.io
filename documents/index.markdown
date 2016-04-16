@@ -11,4 +11,4 @@ have its own [SOP](sop).
 
 All documents are ['Working Manuals'](sop) for schools.
 
-See [Workshops](/workshops), [Services](/services) or workshop [photos](/galleries)
+See [Posts](/#posts), [Workshops](/workshops), [Services](/services) or workshop [photos](/galleries)

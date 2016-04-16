@@ -3,7 +3,7 @@ layout: page
 title: "Services"
 ---
 
-* **Starting a school project** - A school project is planned, designed and project
+* **Starting a school project** - A [school project](school-project) is planned, designed and project
   report made for the prospective client. Also, Turn key project scheme
   available.
 
@@ -17,4 +17,4 @@ title: "Services"
 
 To avail any of the services, feel free to send me an <a href="mailto:rks_201159@yahoo.co.in">email</a>
 
-See [Documents](/documents), [Workshops](/workshops) or [Photos](/galleries)
+See [Posts](/#posts), [Documents](/documents), [Workshops](/workshops) or [Photos](/galleries)
