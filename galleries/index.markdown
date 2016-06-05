@@ -19,6 +19,14 @@ title: "Photo Gallery of various workshops"
 {% endif %}
 {% endfor %}
 
+2014
+{% for gallery in site.data.galleries %}
+{% if gallery.year == 2014 %}
+  {{ gallery.date }}
+  - [{{ gallery.description }}](/galleries/{{ gallery.id }})
+{% endif %}
+{% endfor %}
+
 ---
 
 See [Documents](/documents), [Workshops](/workshops) or [Services](/services)
