@@ -1,3 +1,32 @@
+- id: national-quality
+  year: 2016
+  description: National Workshop on School Quality in Chandigarh
+  imagefolder: /photos/national-quality
+  images:
+  - name: 1.jpg
+    thumb: 1.jpg
+    text: Group photo at the Event
+
+- id: balbhawan-2016
+  year: 2016
+  description: Multiple Intelligence (MI) and Student Mapping workshop at Balbhawan International School, Dwarka, New Delhi
+  imagefolder: /photos/balbhawan-2016
+  images:
+  - name: 1.jpg
+    thumb: 1.jpg
+    text: The building of School
+  - name: 2.jpg
+    thumb: 2.jpg
+    text: Participant Introduction session
+  - name: 3.jpg
+    thumb: 3.jpg
+    text: Participants working on SWOT Analysis
+  - name: 4.jpg
+    thumb: 4.jpg
+    text: Participant's views on the material
+  - name: 5.jpg
+    thumb: 5.jpg
+    text: Conclusion of workshop
 - id: shreeram-2016
   year: 2016
   description: One-day workshop on Bloom's Taxonomy in Shreeram School, Faridabad
