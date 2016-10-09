@@ -22,10 +22,13 @@ Here are some of the schools where I have *made a change* in the past 2 years.
 15. Bright Public School, Sonepat
 16. Gita Convent School, Faridabad
 17. Balbhawan International School, Dwarka, New Delhi
+18. Ch. Neki Ram Public School, Rohtak
+19. SRS International School, Faridabad
+20. Nalanda Sr. Secondary School, Faridabad
 
 SQAA Workshop
 -------------
-I have also conducted combined SQAA Workshops with over a 100 participants each in 3 cities: Chandigarh, Sonepat and Gurgaon (Radisson Hotel)  
+I have also conducted combined SQAA Workshops with over a 100 participants each in 3 cities: Chandigarh, Sonepat and Gurgaon (Radisson Hotel)
 
 ---
 See [Posts](/#posts), [Documents](/documents), [Workshops](/workshops),

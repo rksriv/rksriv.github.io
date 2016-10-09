@@ -1,3 +1,156 @@
+- id: jpsgs-2016
+  year: 2016
+  description: One day workshop on Gender Sensitivity at Jain Public School, Rewari
+  imagefolder: /photos/jps/jpsgs-2016
+  images:
+  - name: 1.jpg
+    thumb: 1.jpg
+    text: Commencing the workshop
+  - name: 2.jpg
+    thumb: 2.jpg
+    text: Group task on worksheets
+  - name: 3.jpg
+    thumb: 3.jpg
+    text: Self-assessment on Gender sensitivity
+  - name: 4.jpg
+    thumb: 4.jpg
+    text: Group Photograph with visiting teachers
+  - name: 5.jpg
+    thumb: 5.jpg
+    text: Group Photograph with school teachers
+  - name: 6.jpg
+    thumb: 6.jpg
+    text: Conclusion of workshop
+
+- id: jpsclassroom-2016
+  year: 2016
+  description: Classroom management workshop(2 day) at Jain Public School, Rewari
+  imagefolder: /photos/jps/jpsclassroom-2016
+  images:
+  - name: 1.jpg
+    thumb: 1.jpg
+    text: Session 1 - Understanding classroom management
+  - name: 2.jpg
+    thumb: 2.jpg
+    text: Group Arrangement exercise
+  - name: 3.jpg
+    thumb: 3.jpg
+    text: Participants working on individual tasks as part of a group
+  - name: 4.jpg
+    thumb: 4.jpg
+    text: Preparing for role play
+  - name: 5.jpg
+    thumb: 5.jpg
+    text: Evaluation of assigned tasks
+  - name: 6.jpg
+    thumb: 6.jpg
+    text: Session 2 - Components of effective classroom management
+  - name: 7.jpg
+    thumb: 7.jpg
+    text: Teaching Styles demonstration of a group
+  - name: 8.jpg
+    thumb: 8.jpg
+    text: Simulation of a classroom
+  - name: 9.jpg
+    thumb: 9.jpg
+    text: Hands on teaching practice
+  - name: 10.jpg
+    thumb: 10.jpg
+    text: Teachers display of an individual activity
+  - name: 11.jpg
+    thumb: 11.jpg
+    text: Self-Evaluation by participants
+  - name: 12.jpg
+    thumb: 12.jpg
+    text: Group display of activity
+  - name: 13.jpg
+    thumb: 13.jpg
+    text: Feedback and display of successful work
+  - name: 14.jpg
+    thumb: 14.jpg
+    text: Conclusion of workshop and group photo
+
+- id: nalanda-2016
+  year: 2016
+  description: CCE Workshop(1 day) at Nalanda Sr. Secondary School, Faridabad
+  imagefolder: /photos/nalanda-2016
+  images:
+  - name: 1.jpg
+    thumb: 1.jpg
+    text: Need Analysis
+  - name: 2.jpg
+    thumb: 2.jpg
+    text: Completing individual tasks
+  - name: 3.jpg
+    thumb: 3.jpg
+    text: Questionnaire session
+  - name: 4.jpg
+    thumb: 4.jpg
+    text: An activity during the workshop
+  - name: 5.jpg
+    thumb: 5.jpg
+    text: Participant's views during the interaction session
+  - name: 6.jpg
+    thumb: 6.jpg
+    text: Conclusion of workshop
+
+- id: srsfbd-2016
+  year: 2016
+  description: CCE Workshop(1 day) at SRS International School, Faridabad
+  imagefolder: /photos/srsfbd-2016
+  images:
+  - name: 1.jpg
+    thumb: 1.jpg
+    text: Commence the Need analysis workshop
+  - name: 2.jpg
+    thumb: 2.jpg
+    text: Participants going through the handouts
+  - name: 3.jpg
+    thumb: 3.jpg
+    text: Formative assessment
+  - name: 4.jpg
+    thumb: 4.jpg
+    text: Introduction of CCE Scheme
+  - name: 5.jpg
+    thumb: 5.jpg
+    text: An activity during the workshop
+  - name: 6.jpg
+    thumb: 6.jpg
+    text: Quick Review on examination schemes
+  - name: 7.jpg
+    thumb: 7.jpg
+    text: Conclusion of workshop
+  - name: 8.jpg
+    thumb: 8.jpg
+    text: Interaction Session
+  - name: 9.jpg
+    thumb: 9.jpg
+    text: Group Photo with all the teachers.
+
+- id: cnrrohtak-2016
+  year: 2016
+  description: CCE Workshop(1 day) at Ch. Neki Ram Public School, Rohtak
+  imagefolder: /photos/cnrrohtak-2016
+  images:
+  - name: 1.jpg
+    thumb: 1.jpg
+    text: The School building
+  - name: 2.jpg
+    thumb: 2.jpg
+    text: Participant Introduction session
+  - name: 3.jpg
+    thumb: 3.jpg
+    text: Participants working on SWOT Analysis
+  - name: 4.jpg
+    thumb: 4.jpg
+    text: Participant's views during the interaction session
+  - name: 5.jpg
+    thumb: 5.jpg
+    text: An activity during the workshop
+  - name: 6.jpg
+    thumb: 6.jpg
+    text: Conclusion of workshop
+
 - id: balbhawan-2016
   year: 2016
   description: Multiple Intelligence (MI) and Student Mapping workshop at Balbhawan International School, Dwarka, New Delhi
@@ -179,7 +332,7 @@
 - id: jps
   year: 2015
   description: Classroom Observation Scale (COS) workshop in Jain Public School, Rewari
-  imagefolder: /photos/jps
+  imagefolder: /photos/jps/jps
   images:
   - name: 1.jpg
     thumb: 1.jpg
