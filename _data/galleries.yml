@@ -1,3 +1,97 @@
+- id: 2017-keshav-vidya-vihar-khor-gurugram
+  year: 2017
+  description: Student Motivation Programme in Keshav Vidya Vihar, Khor, Gurugram
+  imagefolder: /photos/2017-keshav-vidya-vihar-khor
+  images:
+  - name: 1.jpg
+    thumb: 1.jpg
+    text: Student motivation
+  - name: 2.jpg
+    thumb: 2.jpg
+    text: Career Counselling
+  - name: 3.jpg
+    thumb: 3.jpg
+    text: Choice of streams
+  - name: 4.jpg
+    thumb: 4.jpg
+    text: Answer student queries
+  - name: 5.jpg
+    thumb: 5.jpg
+    text: Discussions about introspection
+  - name: 6.jpg
+    thumb: 6.jpg
+    text: Success and expectations
+  - name: 7.jpg
+    thumb: 7.jpg
+    text: Stimulating student confidence
+  - name: 8.jpg
+    thumb: 8.jpg
+    text: Congratulations for success in X board exams 2017
+
+- id: 2017-davc-jind
+  year: 2017
+  description: Capacity Building workshop on Life Skills in DAVC Sr. Sec. Public School, Jind
+  imagefolder: /photos/2017-davc-jind
+  images:
+  - name: 1.jpg
+    thumb: 1.jpg
+    text: School building
+  - name: 2.jpg
+    thumb: 2.jpg
+    text: Perspective building of Life Skills
+  - name: 3.jpg
+    thumb: 3.jpg
+    text: Teaching the first principles of perspective building of Life Skills
+  - name: 4.jpg
+    thumb: 4.jpg
+    text: One to one connect
+  - name: 5.jpg
+    thumb: 5.jpg
+    text: Transacting Life Skills
+  - name: 6.jpg
+    thumb: 6.jpg
+    text: Activity on Team building
+  - name: 7.jpg
+    thumb: 7.jpg
+    text: Choosing leaders of the group
+  - name: 8.jpg
+    thumb: 8.jpg
+    text: Workshop games
+  - name: 9.jpg
+    thumb: 9.jpg
+    text: Transacting Life Skills
+  - name: 10.jpg
+    thumb: 10.jpg
+    text: Paper plane activity
+  - name: 11.jpg
+    thumb: 11.jpg
+    text: Familiarization through role play
+  - name: 12.jpg
+    thumb: 12.jpg
+    text: Group photograph with participants
+
+
+- id: 2017-tagore-jaipur
+  year: 2017
+  description: Capacity Building for Secondary Science Teachers in Tagore International School, Jaipur
+  imagefolder: /photos/2017-tagore-jaipur
+  images:
+  - name: 1.jpg
+    thumb: 1.jpg
+    text: School building
+  - name: 2.jpg
+    thumb: 2.jpg
+    text: Setting the context of teaching
+  - name: 3.jpg
+    thumb: 3.jpg
+    text: Explaining the concepts of Bloom's Taxonomy
+  - name: 4.jpg
+    thumb: 4.jpg
+    text: Drafting test items
+  - name: 5.jpg
+    thumb: 5.jpg
+    text: Group photograph
+
 - id: 2017-modern-arya
   year: 2017
   description: A workshop on Bloom's Taxonomy in Modern Arya Public School, Sarurpur Faridabad
