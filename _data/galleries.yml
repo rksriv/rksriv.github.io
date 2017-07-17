@@ -1,3 +1,33 @@
+- id: 2017-keshav-vidya-vihar-khor-july
+  year: 2017
+  description: Creative Teaching Strategies in Keshav Vidya Vihar, Khor, Gurugram
+  imagefolder: /photos/2017-keshav-vidya-vihar-july
+  images:
+  - name: 1.jpg
+    thumb: 1.jpg
+    text: Introductory Session
+  - name: 2.jpg
+    thumb: 2.jpg
+    text: Different strategies
+  - name: 3.jpg
+    thumb: 3.jpg
+    text: Different strategies in minds of students and teachers
+  - name: 4.jpg
+    thumb: 4.jpg
+    text: Gearing up
+  - name: 5.jpg
+    thumb: 5.jpg
+    text: Circle the sage
+  - name: 6.jpg
+    thumb: 6.jpg
+    text: Conceptual Teaching
+  - name: 7.jpg
+    thumb: 7.jpg
+    text: Class strategies
+  - name: 8.jpg
+    thumb: 8.jpg
+    text: Conclusion and learning outcome
+
 - id: 2017-keshav-vidya-vihar-khor-gurugram
   year: 2017
   description: Student Motivation Programme in Keshav Vidya Vihar, Khor, Gurugram
