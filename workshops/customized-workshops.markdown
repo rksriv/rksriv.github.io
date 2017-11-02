@@ -55,4 +55,4 @@ children. This domain has been divided into the following modules:
 
 For more information send me an <a href="mailto:rks_201159@yahoo.co.in">email</a>
 
-Go back to [Workshops](/workshops), or see [Documents](/documents) and [Services](/services)
+Go back to [Workshops](/workshops), or see [Photo Gallery](/galleries), [Documents](/documents) and [Services](/services)

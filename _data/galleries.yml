@@ -1,3 +1,39 @@
+- id: 2017-rishi-school
+  year: 2017
+  description: 2 day workshop on 'Teaching Science' in Secondary Classes at Rishi School, Rewari
+  imagefolder: /photos/2017-rishi-school
+  images:
+  - name: 1.jpg
+    thumb: 1.jpg
+    text: School Building
+  - name: 2.jpg
+    thumb: 2.jpg
+    text: Commencing Day 1 - Workshop on 'Teaching Science'
+  - name: 3.jpg
+    thumb: 3.jpg
+    text: Engaging teachers in a flight session
+  - name: 4.jpg
+    thumb: 4.jpg
+    text: Teachers present their work
+  - name: 5.jpg
+    thumb: 5.jpg
+    text: One on one review and mock presentation
+  - name: 6.jpg
+    thumb: 6.jpg
+    text: Day 2 - 'Flight session' to kickstart and motivate teachers
+  - name: 7.jpg
+    thumb: 7.jpg
+    text: Group task
+  - name: 8.jpg
+    thumb: 8.jpg
+    text: Teachers showcase their group work
+  - name: 9.jpg
+    thumb: 9.jpg
+    text: Teachers display Pictoral represntations and flowchart of work
+  - name: 10.jpg
+    thumb: 10.jpg
+    text: Group photo and Conclusion
+
 - id: 2017-keshav-vidya-vihar-khor-july
   year: 2017
   description: Creative Teaching Strategies in Keshav Vidya Vihar, Khor, Gurugram

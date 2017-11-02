@@ -3,7 +3,7 @@ layout: post
 title:  "Summer Workshops"
 date:   2016-01-01 15:04:23
 categories: update
-tags: [workshops]
+tags: [flyers, workshops]
 ---
 
 Introducing new summer workshops

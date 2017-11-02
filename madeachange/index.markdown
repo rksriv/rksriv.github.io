@@ -3,7 +3,7 @@ layout: page
 title: "Made a change"
 ---
 
-Here are some of the schools where I have *made a change* in the past 2 years.
+Here are some of the schools where I have *made a change* in the past 3 years.
 
 1. Birla Public School, Nagada, Madhya Pradesh
 2. Sanskriti Public School, Baldev Nagar, Mathura
@@ -25,6 +25,12 @@ Here are some of the schools where I have *made a change* in the past 2 years.
 18. Ch. Neki Ram Public School, Rohtak
 19. SRS International School, Faridabad
 20. Nalanda Sr. Secondary School, Faridabad
+21. Maharana Mewar Public School, Udaipur
+22. Tagore Internationl School, Mansarovar, Jaipur
+23. DAVC Senior Secondary School, Jind
+24. Moga Devi Minda Memorial School, Hisar
+25. Firozpur Zirka School, Firozpur Zirka
+26. Rishi Public School, Rewari
 
 SQAA Workshop
 -------------
