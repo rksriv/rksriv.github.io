@@ -23,8 +23,8 @@ author:
   twitter_username: srivastav_rk
   #github_username: rksriv
   linkedin_username: rk-srivastav-995b8516
-   
-# Google Analytics 
+
+# Google Analytics
 google_analytics: UA-72846931-1
 
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
