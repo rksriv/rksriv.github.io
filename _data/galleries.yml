@@ -1,6 +1,45 @@
+- id: 2017-ajmer-school
+  year: 2017
+  description: 2 days workshop on 'Capacity Building Programme on Teaching Science' in Secondary Classes, Rashtriya Military School, Ajmer
+  imagefolder: /photos/2017-ajmer
+  images:
+  - name: 1.jpg
+    thumb: 1.jpg
+    text: School Entrance
+  - name: 2.jpg
+    thumb: 2.jpg
+    text: School Building
+  - name: 3.jpg
+    thumb: 3.jpg
+    text: Ice Breaking Session
+  - name: 4.jpg
+    thumb: 4.jpg
+    text: Group Discussion on Bloom's Taxonomy
+  - name: 5.jpg
+    thumb: 5.jpg
+    text: Assessment for Learning
+  - name: 6.jpg
+    thumb: 6.jpg
+    text: Preparation for lesson plan
+  - name: 7.jpg
+    thumb: 7.jpg
+    text: Participants showcase 'Display of Teaching Strategies for Science'
+  - name: 8.jpg
+    thumb: 8.jpg
+    text: Lesson plan by a group
+  - name: 9.jpg
+    thumb: 9.jpg
+    text: Give me wings! Exercise
+  - name: 10.jpg
+    thumb: 10.jpg
+    text: Group Photo
+  - name: 11.jpg
+    thumb: 11.jpg
+    text: Thank you
+    
 - id: 2017-rishi-school
   year: 2017
-  description: 2 day workshop on 'Teaching Science' in Secondary Classes at Rishi School, Rewari
+  description: 2 days workshop on 'Teaching Science' in Secondary Classes at Rishi School, Rewari
   imagefolder: /photos/2017-rishi-school
   images:
   - name: 1.jpg
@@ -20,7 +59,7 @@
     text: One on one review and mock presentation
   - name: 6.jpg
     thumb: 6.jpg
-    text: Day 2 - 'Flight session' to kickstart and motivate teachers
+    text: Day 2 - 'Flight session' to kick-start and motivate teachers
   - name: 7.jpg
     thumb: 7.jpg
     text: Group task
@@ -29,7 +68,7 @@
     text: Teachers showcase their group work
   - name: 9.jpg
     thumb: 9.jpg
-    text: Teachers display Pictoral represntations and flowchart of work
+    text: Teachers display Pectoral representations and flowchart of work
   - name: 10.jpg
     thumb: 10.jpg
     text: Group photo and Conclusion
@@ -220,7 +259,7 @@
     text: Talking about The Gender Construct
   - name: 3.jpg
     thumb: 3.jpg
-    text: Disuccsion on Pedagogy and Teaching learning material
+    text: Discussion on Pedagogy and Teaching learning material
   - name: 4.jpg
     thumb: 4.jpg
     text: Classroom environment and interaction
@@ -288,7 +327,7 @@
 
 - id: jpsclassroom-2016
   year: 2016
-  description: Classroom management workshop(2 day) at Jain Public School, Rewari
+  description: Classroom management workshop(2 days) at Jain Public School, Rewari
   imagefolder: /photos/jps/jpsclassroom-2016
   images:
   - name: 1.jpg
@@ -452,7 +491,7 @@
     text: Reading the workshop material
   - name: 3.jpg
     thumb: 3.jpg
-    text: Beginning the presenation
+    text: Beginning the presentation
   - name: 4.jpg
     thumb: 4.jpg
     text: Discussing the question paper design
@@ -482,13 +521,13 @@
     text: Group photograph
   - name: 2.jpg
     thumb: 2.jpg
-    text: Reading of the worskhop material
+    text: Reading of the workshop material
   - name: 3.jpg
     thumb: 3.jpg
     text: Teachers engaged in task
   - name: 4.jpg
     thumb: 4.jpg
-    text: Teachers engaged in blueprint desiging
+    text: Teachers engaged in blueprint designing
 
 - id: pataudi
   year: 2016

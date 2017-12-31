@@ -26,11 +26,12 @@ Here are some of the schools where I have *made a change* in the past 3 years.
 19. SRS International School, Faridabad
 20. Nalanda Sr. Secondary School, Faridabad
 21. Maharana Mewar Public School, Udaipur
-22. Tagore Internationl School, Mansarovar, Jaipur
+22. Tagore International School, Mansarovar, Jaipur
 23. DAVC Senior Secondary School, Jind
 24. Moga Devi Minda Memorial School, Hisar
 25. Firozpur Zirka School, Firozpur Zirka
 26. Rishi Public School, Rewari
+27. Rashtriya Military School, Ajmer
 
 SQAA Workshop
 -------------
