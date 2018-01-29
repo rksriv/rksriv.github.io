@@ -1,3 +1,27 @@
+- id: 2018-indian-heights-school
+  year: 2018
+  description: 2 days workshop on 'Capacity Building Programme on Teaching Science' in Secondary Classes, The Indian Heights School, Dwarka, New Delhi
+  imagefolder: /photos/2018-indian-heights-school
+  images:
+  - name: 1.jpg
+    thumb: 1.jpg
+    text: School Entrance with workshop board
+  - name: 2.jpg
+    thumb: 2.jpg
+    text: School Building
+  - name: 3.jpg
+    thumb: 3.jpg
+    text: Ice Breaking Session
+  - name: 4.jpg
+    thumb: 4.jpg
+    text: Item preparation
+  - name: 5.jpg
+    thumb: 5.jpg
+    text: Individual preparation for presentation
+  - name: 6.jpg
+    thumb: 6.jpg
+    text: Group Photo
+
 - id: 2017-ajmer-school
   year: 2017
   description: 2 days workshop on 'Capacity Building Programme on Teaching Science' in Secondary Classes, Rashtriya Military School, Ajmer

@@ -32,6 +32,7 @@ Here are some of the schools where I have *made a change* in the past 3 years.
 25. Firozpur Zirka School, Firozpur Zirka
 26. Rishi Public School, Rewari
 27. Rashtriya Military School, Ajmer
+28. The Indian Heights School, Dwarka, New Delhi
 
 SQAA Workshop
 -------------
