@@ -33,6 +33,20 @@ Here are some of the schools where I have *made a change* in the past 3 years.
 26. Rishi Public School, Rewari
 27. Rashtriya Military School, Ajmer
 28. The Indian Heights School, Dwarka, New Delhi
+29. Bal Bharti Public School, Manesar
+30. Khalsa College Sr. Secondary School, Amritsar
+31. Saraswati Bal Mandir Sr. Sec. School, Delhi
+32. St. Columbus School, Faridabad
+33. Rajwanshi Sr. Sec. School, Narnaul
+34. Sunglow International School, Rewari
+35. Modern Arya Public School, Faridabad
+36. Presentation Convent School, Delhi
+37. Maheshwari Public School, Ajmer
+38. Queen Mary’s School, Northend, Delhi
+39. DAV School, Gurgaon
+40. Greenfields School, Delhi
+41. Modern School, Vasant Vihar, Delhi
+
 
 SQAA Workshop
 -------------
