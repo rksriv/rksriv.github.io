@@ -9,7 +9,7 @@ CONFIG = {
   "posts" => File.join(SOURCE, "_posts"),
   "drafts" => File.join(SOURCE, "_drafts"),
   "format" => "markdown",
-  "config" => "_config.yml", 
+  "config" => "_config.yml",
   "dev" => "http://localhost:4000"
 }
 
@@ -84,7 +84,7 @@ task :publish do
   commit_message = ENV["message"] || ENV["m"] || abort("Please provide a commit message")
 
   filename = File.join(CONFIG["config"])
-  if !File.exist?(filename) 
+  if !File.exist?(filename)
     abort("config file not found!")
   end
   config = YAML.load_file(filename)
@@ -98,7 +98,7 @@ end
 desc "Live Preview (use mode=drafts for drafts)"
 task :preview do
   filename = File.join(CONFIG["config"])
-  if !File.exist?(filename) 
+  if !File.exist?(filename)
     abort("config file not found!")
   end
   drafts = ENV["mode"] || ""
@@ -107,7 +107,7 @@ task :preview do
   system "jekyll serve -w --#{drafts}"
 end
 
-desc "List tasks" 
-task :default do 
+desc "List tasks"
+task :default do
   system('rake -T')
 end
