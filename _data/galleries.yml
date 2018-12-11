@@ -1,6 +1,6 @@
 - id: 2018-modern-school-vasant-vihar
   year: 2018
-  description: 2 day workshop on Capacity Building Programme on Life Skills, Modern School, Vasant Vihar, Delhi
+  description: Workshop on Capacity Building Programme on Life Skills, Modern School, Vasant Vihar, Delhi
   imagefolder: /photos/2018-modern-school-vasant-vihar
   images:
   - name: 1.jpg
@@ -299,19 +299,19 @@
   images:
   - name: 1.jpg
     thumb: 1.jpg
-    text: Commencement of the workshop
+    text: School Building
   - name: 2.jpg
     thumb: 2.jpg
-    text: Writing key points on how to teach science
+    text: School Playground
   - name: 3.jpg
     thumb: 3.jpg
     text: Lesson Planning
   - name: 4.jpg
     thumb: 4.jpg
-    text: Observing Different methods of teaching
+    text: Discussion on strategic methods of classroom management
   - name: 5.jpg
     thumb: 5.jpg
-    text: Group Photo
+    text: Feedback session
 
 - id: 2018-st-columbus-school-faridabad
   year: 2018
