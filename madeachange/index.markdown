@@ -3,7 +3,7 @@ layout: page
 title: "Made a change"
 ---
 
-Here are some of the schools where I have *made a change* in the past 3 years.
+Here are some of the schools where I have *made a change* in the past 6 years.
 
 1. Birla Public School, Nagada, Madhya Pradesh
 2. Sanskriti Public School, Baldev Nagar, Mathura
@@ -46,6 +46,11 @@ Here are some of the schools where I have *made a change* in the past 3 years.
 39. DAV School, Gurgaon
 40. Greenfields School, Delhi
 41. Modern School, Vasant Vihar, Delhi
+42. Gyan Devi Public School, Gurgoan
+43. New Era Public School, New Delhi
+44. Shreejee International School, Sonipat
+45. Swami Dharmanand School, Faridabad
+46. Sant Mohan Singh Public School, Gurgaon
 
 
 SQAA Workshop
