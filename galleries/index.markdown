@@ -3,6 +3,14 @@ layout: page
 title: "Photo Gallery of various workshops"
 ---
 
+2019
+{% for gallery in site.data.galleries %}
+{% if gallery.year == 2019 %}
+  {{ gallery.date }}
+  - [{{ gallery.description }}](/galleries/{{ gallery.id }})
+{% endif %}
+{% endfor %}
+
 2018
 {% for gallery in site.data.galleries %}
 {% if gallery.year == 2018 %}

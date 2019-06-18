@@ -1,3 +1,165 @@
+- id: 2019-sant-mohan-singh-public-school-ambala
+  year: 2019
+  description: Workshop on Life Skills in Sant Mohan Singh Public School, Ambala
+  imagefolder: /photos/2019-sant-mohan-singh-public-school-ambala
+  images:
+  - name: 1.jpg
+    thumb: 1.jpg
+    text: School Building
+  - name: 2.jpg
+    thumb: 2.jpg
+    text: Colour coding the groups
+  - name: 3.jpg
+    thumb: 3.jpg
+    text: Six thinking hats concept
+  - name: 4.jpg
+    thumb: 4.jpg
+    text: Thinking session in progress
+  - name: 5.jpg
+    thumb: 5.jpg
+    text: Thinking session in progress
+  - name: 6.jpg
+    thumb: 6.jpg
+    text: Supervising the session of green thinking hat
+  - name: 7.jpg
+    thumb: 7.jpg
+    text: Move to learn activity
+  - name: 8.jpg
+    thumb: 8.jpg
+    text: Group discussion on school canteen
+  - name: 9.jpg
+    thumb: 9.jpg
+    text: Hands on teaching practice
+  - name: 10.jpg
+    thumb: 10.jpg
+    text: Presentation by group on thinking skills
+  - name: 11.jpg
+    thumb: 11.jpg
+    text: Group members
+  - name: 12.jpg
+    thumb: 12.jpg
+    text: Final activity session
+
+- id: 2019-swami-dharmanand-faridabad
+  year: 2019
+  description: Workshop on Effective teaching in Swami Dharmanand School, Faridabad
+  imagefolder: /photos/2019-swami-dharmanand-faridabad
+  images:
+  - name: 1.jpg
+    thumb: 1.jpg
+    text: School Building
+  - name: 2.jpg
+    thumb: 2.jpg
+    text: Working on handouts
+  - name: 3.jpg
+    thumb: 3.jpg
+    text: Working on handouts
+  - name: 4.jpg
+    thumb: 4.jpg
+    text: Activity Session
+
+- id: 2019-shreejee-international-school-sonipat
+  year: 2019
+  description: Workshop on Gender Sensitivity in Shreejee International School, Sonipat
+  imagefolder: /photos/2019-shreejee-international-school-sonipat
+  images:
+  - name: 1.jpg
+    thumb: 1.jpg
+    text: School Building
+  - name: 2.jpg
+    thumb: 2.jpg
+    text: Lighting the lamp
+  - name: 3.jpg
+    thumb: 3.jpg
+    text: Workshop Poster
+  - name: 4.jpg
+    thumb: 4.jpg
+    text: Workshop Poster
+  - name: 5.jpg
+    thumb: 5.jpg
+    text: Need analysis handout
+  - name: 6.jpg
+    thumb: 6.jpg
+    text: Teachers working on handouts
+  - name: 7.jpg
+    thumb: 7.jpg
+    text: Teachers working on handouts
+  - name: 8.jpg
+    thumb: 8.jpg
+    text: Presenting a view on Gender Equality
+  - name: 9.jpg
+    thumb: 9.jpg
+    text: Activity session
+  - name: 10.jpg
+    thumb: 10.jpg
+    text: Group photo
+
+- id: 2019-new-era-public-school-delhi
+  year: 2019
+  description: 2 day Workshop on Classroom Management in New Era Public School, New Delhi
+  imagefolder: /photos/2019-new-era-public-school-delhi
+  images:
+  - name: 1.jpg
+    thumb: 1.jpg
+    text: 60year old School Building
+  - name: 2.jpg
+    thumb: 2.jpg
+    text: Participants getting ready for activity
+  - name: 3.jpg
+    thumb: 3.jpg
+    text: Participants getting ready for activity
+  - name: 4.jpg
+    thumb: 4.jpg
+    text: A group showcasing it's presentation on classroom setup
+  - name: 5.jpg
+    thumb: 5.jpg
+    text: Drawing a dream classroom
+  - name: 6.jpg
+    thumb: 6.jpg
+    text: Recapitulation - "Give one, take one" learning.
+  - name: 7.jpg
+    thumb: 7.jpg
+    text: Recapitulation - "Give one, take one" learning.
+  - name: 8.jpg
+    thumb: 8.jpg
+    text: Discussion on "Why rules are necessary in school?"
+  - name: 9.jpg
+    thumb: 9.jpg
+    text: Demonstrating a teaching style - Expert
+  - name: 10.jpg
+    thumb: 10.jpg
+    text: Group photo
+
+- id: 2019-gyandevi-public-school-gurgaon
+  year: 2019
+  description: Workshop on Effective Teaching Strategies in Gyandevi Public School, Gurgaon
+  imagefolder: /photos/2019-gyandevi-public-school-gurgaon
+  images:
+  - name: 1.jpg
+    thumb: 1.jpg
+    text: School Building
+  - name: 2.jpg
+    thumb: 2.jpg
+    text: Participants filling up the Self-Assessment Form
+  - name: 3.jpg
+    thumb: 3.jpg
+    text: Participants filling up the Self-Assessment Form
+  - name: 4.jpg
+    thumb: 4.jpg
+    text: Ready for activity session!
+  - name: 5.jpg
+    thumb: 5.jpg
+    text: Activity session
+  - name: 6.jpg
+    thumb: 6.jpg
+    text: Activity session
+  - name: 7.jpg
+    thumb: 7.jpg
+    text: Activity session
+  - name: 8.jpg
+    thumb: 8.jpg
+    text: Group Photo with all participants
+
 - id: 2018-modern-school-vasant-vihar
   year: 2018
   description: Workshop on Capacity Building Programme on Life Skills, Modern School, Vasant Vihar, Delhi
@@ -392,7 +554,7 @@
   images:
   - name: 1.jpg
     thumb: 1.jpg
-    text: School Building 
+    text: School Building
   - name: 2.jpg
     thumb: 2.jpg
     text: Workshop Board
@@ -486,7 +648,7 @@
   - name: 11.jpg
     thumb: 11.jpg
     text: Thank you
-    
+
 - id: 2017-rishi-school
   year: 2017
   description: 2 days workshop on 'Teaching Science' in Secondary Classes at Rishi School, Rewari
