@@ -1,3 +1,39 @@
+- id: 2019-indira-ideal-school-delhi
+  year: 2019
+  description: Workshop on Managing Behavioural Problems in Children at Indira Ideal School, New Delhi
+  imagefolder: /photos/2019-indira-ideal-school-delhi
+  images:
+  - name: 1.jpg
+    thumb: 1.jpg
+    text: School Building
+  - name: 2.jpg
+    thumb: 2.jpg
+    text: Colour coding the groups
+  - name: 3.jpg
+    thumb: 3.jpg
+    text: Working on a handout on Learning Styles
+  - name: 4.jpg
+    thumb: 4.jpg
+    text: Move to learn activity session
+  - name: 5.jpg
+    thumb: 5.jpg
+    text: Participants working on a handout on Conduct Management - Making rules
+  - name: 6.jpg
+    thumb: 6.jpg
+    text: Responding to case study - 1
+  - name: 7.jpg
+    thumb: 7.jpg
+    text: A Group working on Management of Behavioural Problems
+  - name: 8.jpg
+    thumb: 8.jpg
+    text: A Group working on Classroom problems
+  - name: 9.jpg
+    thumb: 9.jpg
+    text: A participant giving his take on Conduct Management
+  - name: 10.jpg
+    thumb: 10.jpg
+    text: Group photograph
+
 - id: 2019-sant-mohan-singh-public-school-ambala
   year: 2019
   description: Workshop on Life Skills in Sant Mohan Singh Public School, Ambala
