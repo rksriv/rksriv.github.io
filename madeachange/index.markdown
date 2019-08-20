@@ -52,6 +52,7 @@ Here are some of the schools where I have *made a change* in the past 6 years.
 45. Swami Dharmanand School, Faridabad
 46. Sant Mohan Singh Public School, Gurgaon
 47. Indira Ideal School, New Delhi
+48. Mount View Model School, Bhawal, Rajesthan
 
 
 SQAA Workshop

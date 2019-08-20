@@ -1,3 +1,21 @@
+- id: 2019-mount-view-model-school-bhawal
+  year: 2019
+  description: Workshop on Parent Orientation Programme in Mount View Model School, Bhawal, Rajesthan
+  imagefolder: /photos/2019-mount-view-model-school
+  images:
+  - name: 1.jpg
+    thumb: 1.jpg
+    text: School Building
+  - name: 2.jpg
+    thumb: 2.jpg
+    text: Interacting with Parents
+  - name: 3.jpg
+    thumb: 3.jpg
+    text: Addressing the concerns of Parents
+  - name: 4.jpg
+    thumb: 4.jpg
+    text: Group photograph
+
 - id: 2019-indira-ideal-school-delhi
   year: 2019
   description: Workshop on Managing Behavioural Problems in Children at Indira Ideal School, New Delhi
