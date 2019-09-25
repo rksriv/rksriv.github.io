@@ -1,3 +1,72 @@
+- id: 2019-delhi-public-school-ghaziabad
+  year: 2019
+  description: 2 day workshop on Teaching Science to Class X students at Delhi Public School, Ghaziabad
+  imagefolder: /photos/2019-delhi-public-school-ghaziabad
+  images:
+  - name: 1.jpg
+    thumb: 1.jpg
+    text: School Building
+  - name: 2.jpg
+    thumb: 2.jpg
+    text: Workshop poster
+  - name: 3.jpg
+    thumb: 3.jpg
+    text: Participants gathering up for the workshop
+  - name: 4.jpg
+    thumb: 4.jpg
+    text: Handout - What is Science?
+  - name: 5.jpg
+    thumb: 5.jpg
+    text: Ice breaking session
+  - name: 6.jpg
+    thumb: 6.jpg
+    text: A healthy and energetic start to the session
+  - name: 7.jpg
+    thumb: 7.jpg
+    text: Warm up session
+  - name: 8.jpg
+    thumb: 8.jpg
+    text: Colour coding of participants
+  - name: 9.jpg
+    thumb: 9.jpg
+    text: Participants rearranging their positions according to colour groups
+  - name: 10.jpg
+    thumb: 10.jpg
+    text: Working on concept maps
+  - name: 11.jpg
+    thumb: 11.jpg
+    text: Teachers drawing up a mind-map
+  - name: 12.jpg
+    thumb: 12.jpg
+    text: Recaptulation
+  - name: 13.jpg
+    thumb: 13.jpg
+    text: Group discussion
+  - name: 14.jpg
+    thumb: 14.jpg
+    text: Lesson planning
+  - name: 15.jpg
+    thumb: 15.jpg
+    text: Lesson planning
+  - name: 16.jpg
+    thumb: 16.jpg
+    text: Commencing Day 2
+  - name: 17.jpg
+    thumb: 17.jpg
+    text: Presentation of lesson plan
+  - name: 18.jpg
+    thumb: 18.jpg
+    text: Lesson plan - Direct demonstation
+  - name: 19.jpg
+    thumb: 19.jpg
+    text: Lesson plan - dramatization
+  - name: 20.jpg
+    thumb: 20.jpg
+    text: Lesson plan - student teacher engagement
+  - name: 21.jpg
+    thumb: 21.jpg
+    text: Group photo
+
 - id: 2019-raath-international-school-alwar
   year: 2019
   description: 2 day workshop on Classroom Management at Raath International School, Alwar, Rajesthan
