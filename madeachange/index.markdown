@@ -53,6 +53,9 @@ Here are some of the schools where I have *made a change* in the past 6 years.
 46. Sant Mohan Singh Public School, Gurgaon
 47. Indira Ideal School, New Delhi
 48. Mount View Model School, Bhawal, Rajesthan
+49. Raath International School, Alwar, Rajesthan
+50. Delhi Public School, Ghaziabad
+51. M.R. School, Jhajjar
 
 
 SQAA Workshop
