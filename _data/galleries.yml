@@ -1,3 +1,63 @@
+- id: 2019-mount-columbus-hapur
+  year: 2019
+  description: 2 Days Capacity Building Workshop in Mount Columbus School, Hapur, Uttar Pradesh
+  imagefolder: /photos/2019-mount-columbus-hapur
+  images:
+  - name: 1.jpg
+    thumb: 1.jpg
+    text: Participant registration counter
+  - name: 2.jpg
+    thumb: 2.jpg
+    text: Workshop poster
+  - name: 3.jpg
+    thumb: 3.jpg
+    text: Welcome by students
+  - name: 4.jpg
+    thumb: 4.jpg
+    text: Colour coding of participants
+  - name: 5.jpg
+    thumb: 5.jpg
+    text: Working on "What is science?" handouts
+  - name: 6.jpg
+    thumb: 6.jpg
+    text: Move to learn
+  - name: 7.jpg
+    thumb: 7.jpg
+    text: Introducing Bloom's Taxonomy
+  - name: 8.jpg
+    thumb: 8.jpg
+    text: Discussion on Cognitive Domain - HOTS
+  - name: 9.jpg
+    thumb: 9.jpg
+    text: Working on Bloom's Taxonomy handouts
+  - name: 10.jpg
+    thumb: 10.jpg
+    text: Physical Activity - Mind and body coordination
+  - name: 11.jpg
+    thumb: 11.jpg
+    text: Day 2 - Circle Time - Recapitulation
+  - name: 12.jpg
+    thumb: 12.jpg
+    text: Participants working on item writing
+  - name: 13.jpg
+    thumb: 13.jpg
+    text: Group activity - Making a Concept Map
+  - name: 14.jpg
+    thumb: 14.jpg
+    text: Group activity - Making a Mind Map
+  - name: 15.jpg
+    thumb: 15.jpg
+    text: Group activity - Making a Mind Map on Biology
+  - name: 16.jpg
+    thumb: 16.jpg
+    text: Participants showing their group tasks
+  - name: 17.jpg
+    thumb: 17.jpg
+    text: Item drafting
+  - name: 18.jpg
+    thumb: 18.jpg
+    text: Group photo
+
 - id: 2019-mr-school-jhajjar
   year: 2019
   description: 2 day Capacity Building Programme at M.R. School, Jhajjar
@@ -23,7 +83,7 @@
     text: Working on content management handouts
   - name: 7.jpg
     thumb: 7.jpg
-    text: Recaptulation - Day 2
+    text: Recapitulation - Day 2
   - name: 8.jpg
     thumb: 8.jpg
     text: Move to learn
@@ -80,7 +140,7 @@
     text: Teachers drawing up a mind-map
   - name: 12.jpg
     thumb: 12.jpg
-    text: Recaptulation
+    text: Recapitulation
   - name: 13.jpg
     thumb: 13.jpg
     text: Group discussion
@@ -625,10 +685,10 @@
     text: Lesson planning (Day 1)
   - name: 7.jpg
     thumb: 7.jpg
-    text: Recaptulation - Each on share one point (Day 2)
+    text: Recapitulation - Each on share one point (Day 2)
   - name: 8.jpg
     thumb: 8.jpg
-    text: Recaptulation - Each on share one point (Day 2)
+    text: Recapitulation - Each on share one point (Day 2)
   - name: 9.jpg
     thumb: 9.jpg
     text: Teaching stategy
@@ -1026,7 +1086,6 @@
     thumb: 12.jpg
     text: Group photograph with participants
 
-
 - id: 2017-tagore-jaipur
   year: 2017
   description: Capacity Building for Secondary Science Teachers in Tagore International School, Jaipur
@@ -1150,7 +1209,6 @@
   - name: 6.jpg
     thumb: 6.jpg
     text: Group photograph with all participating teachers
-
 
 - id: jpsgs-2016
   year: 2016
