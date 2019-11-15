@@ -56,7 +56,8 @@ Here are some of the schools where I have *made a change* in the past 6 years.
 49. Raath International School, Alwar, Rajesthan
 50. Delhi Public School, Ghaziabad
 51. M.R. School, Jhajjar
-52. Mount Columbus School, Hapur
+52. Mount Columbus School, Hapur, Uttar Pradesh
+53. Indirapuram Public School, Ghaziabad, Uttar Pradesh
 
 
 SQAA Workshop
