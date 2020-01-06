@@ -59,6 +59,12 @@ Here are some of the schools where I have *made a change* in the past 6 years.
 52. Mount Columbus School, Hapur, Uttar Pradesh
 53. Indirapuram Public School, Ghaziabad, Uttar Pradesh
 54. Delhi Public School, Moradabad, Uttar Pradesh
+55. Gyan Jyoti Public School, Chhawala, New Delhi
+56. DAV Public School, Sector 14 Gurgaon
+57. Dr. Jacques Vigne National School, Guptakashi, Uttrakhand
+58. Satya Bharti Schools, Rewari
+59. Mount Litera Zee School, Muzaffarnagar
+60. SDB Public School, Badaun Rd. Bisauli, Uttar Pradesh
 
 
 SQAA Workshop
